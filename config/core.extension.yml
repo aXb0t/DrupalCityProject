@@ -9,10 +9,13 @@ module:
   mysql: 0
   node: 0
   page_cache: 0
+  path: 0
   path_alias: 0
   system: 0
   text: 0
+  token: 0
   user: 0
+  pathauto: 1
   minimal: 1000
 theme:
   stark: 0
