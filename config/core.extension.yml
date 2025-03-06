@@ -26,4 +26,6 @@ module:
   minimal: 1000
 theme:
   stark: 0
+  stable9: 0
+  dev_theme: 0
 profile: minimal

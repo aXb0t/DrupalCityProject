@@ -1,0 +1,20 @@
+uuid: 6b9cd930-ba5f-4486-95ad-e4578546940b
+langcode: en
+status: true
+dependencies:
+  theme:
+    - dev_theme
+_core:
+  default_config_hash: ABoKnlk20KHqZRw_2Qr4EvaFvH4lnQ2nuhunHeE1JIU
+id: dev_theme_local_actions
+theme: dev_theme
+region: content
+weight: -10
+provider: null
+plugin: local_actions_block
+settings:
+  id: local_actions_block
+  label: 'Primary admin actions'
+  label_display: '0'
+  provider: core
+visibility: {  }
