@@ -1,0 +1,13 @@
+uuid: 29c2aeb8-1770-439b-8307-c397a733bc10
+langcode: en
+status: true
+dependencies: {  }
+id: general_file
+label: 'General File'
+description: ''
+source: file
+queue_thumbnail_downloads: false
+new_revision: false
+source_configuration:
+  source_field: field_media_file
+field_map: {  }
